@@ -33,6 +33,7 @@
         margin-top: 2rem;
     }
     #profile, .section-container{
+        width: auto;
         display: block;
     }
     
@@ -68,8 +69,9 @@
     }
 
     #profile{
+        position: absolute;
         height: 83vh;
-        margin-bottom: 0 ;
+        margin-bottom: 6rem;
     }
 
     article{
